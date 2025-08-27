@@ -6,5 +6,8 @@ I love contributing to open-source projects across starknet and bitcoin ecosyste
 
 I love FOSS (Free Open Source Software).
 
-Cheers, Let's connect!
+    "To be a very good at anything, you have to practise right"
 
+                                              - Osinachi 2025
+
+Cheers, Let's connect!
