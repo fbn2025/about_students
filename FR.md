@@ -1,3 +1,5 @@
-Hello,
+"About This Class"
 This is Friday,
-Hope i forked properly.
+I love art.
+Hope we end this well.
+
